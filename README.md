@@ -1,1 +1,1 @@
-# PersonalLoanClassification-in-Banking
+# Personal Loan Classification in Banking
