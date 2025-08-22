@@ -5,7 +5,7 @@ This repository contains a project that applies supervised machine learning tech
 The dataset used in this project is available on my Kaggle page:  
 👉 [Personal Loan Dataset](https://www.kaggle.com/datasets/mbsoroush/personal-loan-dataset)
 
-### 📌 Features
+## 📌 Features
 -  Exploratory Data Analysis (EDA) to understand customer attributes affecting loan acceptance.
 -  Implements Logistic Regression, Naive Bayes, K-Nearest Neighbors (KNN), and Random Forest for classification.
 -  Feature selection and engineering to improve model accuracy.
